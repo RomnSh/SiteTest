@@ -37,18 +37,18 @@
 }
 
 .cadr-team-foto1 {
-  background-image: url('/assets/img/fase21.jpg');
+  background-image: url('../assets/img/fase21.jpg');
 }
 
 .cadr-team-foto2 {
-  background-image: url('/assets/img/fase23.jpg');
+  background-image: url('../assets/img/fase23.jpg');
 }
 
 .cadr-team-foto3 {
-  background-image: url('/assets/img/fase22.jpg');
+  background-image: url('../assets/img/fase22.jpg');
 }
 .cadr-team-foto4 {
-  background-image: url('/assets/img/fase23.jpg');
+  background-image: url('../assets/img/fase23.jpg');
 }
 
 .cadr-team-lable {
