@@ -4,7 +4,6 @@
 
 .nav-item {
   margin: 0px 9px;
- 
 }
 
 .navbar-nav .nav-link.active, .navbar-nav .show>.nav-link {
@@ -31,25 +30,25 @@
   border-radius: 0;
 }
 
-.paragraph__item-icon{
+.paragraph__item-icon {
   padding: 10px;
   background-color: rgb(49, 177, 145);
   color: aliceblue;
 }
 
 .cadr-team-foto1 {
-  background-image: url('assets/img/fase21.jpg');
+  background-image: url('./assets/img/fase21.jpg');
 }
 
 .cadr-team-foto2 {
-  background-image: url('/assets/img/fase23.jpg');
+  background-image: url('./assets/img/fase23.jpg');
 }
 
 .cadr-team-foto3 {
   background-image: url('./assets/img/fase22.jpg');
 }
 .cadr-team-foto4 {
-  background-image: url("./assets/img/fase23.jpg");
+  background-image: url('./assets/img/fase23.jpg');
 }
 
 .cadr-team-lable {
@@ -75,7 +74,7 @@
   margin: 2px;
   border-radius: 0;
   display: none; 
-  }
+}
 
 .cadr-item:hover .bi {
   display:inline;
@@ -89,6 +88,7 @@
 .cards-work {
   width: 100%;
 }
+
 .cards-work-container {
   position: relative;
   margin: 5px 0px;
@@ -102,6 +102,7 @@
   color: aliceblue;
   opacity: 0;
 }
+
 .cards-work-container:hover .bi-plus-square-fill {
   opacity: 110;
 }
