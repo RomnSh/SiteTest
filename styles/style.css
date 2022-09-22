@@ -1,0 +1,128 @@
+.navbar-brand {
+  margin:0% 10% ;
+}
+
+.nav-item {
+  margin: 0px 9px;
+ 
+}
+
+.navbar-nav .nav-link.active, .navbar-nav .show>.nav-link {
+  color: rgb(49, 177, 145);
+}
+
+.carousel-item {
+  height: 600px;
+}
+
+.carousel-item img {
+  height: 600px;
+}
+
+.carousel-caption {
+  margin-bottom: 12em;
+  margin-left: 5%;
+}
+
+.item-icons {
+  font-size: 30px;
+  background-color:slategrey;
+  color:aliceblue;
+  border-radius: 0;
+}
+
+.paragraph__item-icon{
+  padding: 10px;
+  background-color: rgb(49, 177, 145);
+  color: aliceblue;
+}
+
+.cadr-team-foto1 {
+  background-image: url('/assets/img/fase1.jpg');
+}
+
+.cadr-team-foto2 {
+  background-image: url('/assets/img/fase3.jpg');
+}
+
+.cadr-team-foto3 {
+  background-image: url('/assets/img/fase2.jpg');
+}
+.cadr-team-foto4 {
+  background-image: url('/assets/img/fase3.jpg');
+}
+
+.cadr-team-lable {
+  background-color: rgb(212, 211, 211);
+}
+
+.cadr-team-lable {
+  width: 15em;
+  margin-bottom: 20px;
+}
+
+.cadr-item {
+  height:17em;
+  width: 15em;
+  background-repeat:no-repeat;
+  background-size:100% 100%
+}
+
+.cadr-item .bi {
+  font-size: 24px;
+  background-color: rgb(48, 47, 47);
+  color: aliceblue;
+  margin: 2px;
+  border-radius: 0;
+  display: none; 
+  }
+
+.cadr-item:hover .bi {
+  display:inline;
+}
+
+.cadr-team:hover .cadr-team-lable {
+  background-color: rgb(48, 47, 47);
+  color: azure;
+}
+
+.cards-work {
+  width: 100%;
+}
+.cards-work-container {
+  position: relative;
+  margin: 5px 0px;
+  
+}
+.bi-plus-square-fill {
+  font-size: 44px;
+  position: absolute;
+  bottom: 45%;
+  right: 43%;
+  color: aliceblue;
+  opacity: 0;
+}
+.cards-work-container:hover .bi-plus-square-fill {
+  opacity: 110;
+}
+
+.cards-work-lable {
+  background-color: rgb(48, 47, 47);
+  color: azure;
+  position: absolute;
+  bottom: 0;
+  font-size:large;
+  width: 70%;
+  text-align: center;
+  opacity: 0;
+  padding: 4px;
+}
+
+.cards-work-container:hover .cards-work-lable {
+  opacity: 110;
+}
+
+.icon-item{
+  font-size: 50px;
+  color: rgb(49, 177, 145);
+}
