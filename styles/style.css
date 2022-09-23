@@ -10,18 +10,18 @@
   color: rgb(49, 177, 145);
 }
 
-/* .carousel-item {
-  height: 600px;
+.carousel-item {
+  height: 800px;
 }
 
 .carousel-item img {
-  height: 600px;
+  height: 800px;
 }
 
 .carousel-caption {
   margin-bottom: 12em;
   margin-left: 5%;
-} */
+}
 
 .item-icons {
   font-size: 30px;
