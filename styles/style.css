@@ -15,11 +15,11 @@ position: relative;
 }
 
 .carousel-item {
-  height: 600px;
+  height: 100%px;
 }
 
 .carousel-item img {
-  height: 600px;
+  height: 100%px;
 }
 
 .carousel-caption {
