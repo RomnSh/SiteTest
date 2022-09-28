@@ -131,3 +131,22 @@ position: relative;
   font-size: 50px;
   color: rgb(49, 177, 145);
 }
+
+.map-container{
+  overflow:hidden;
+  padding-bottom:30%;
+  position:relative;
+  height:0;
+}
+.map-container iframe{
+  left:0;
+  top:0;
+  height:100%;
+  width:100%;
+  position:absolute;
+}
+
+.btn-text-form {
+  background-color: rgb(49, 177, 145);
+  color: aliceblue;
+}
